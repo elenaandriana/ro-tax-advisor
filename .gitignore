@@ -1,7 +1,5 @@
 input/*
-tmp/chunks/*
-tmp/docling/*
-tmp/html/*
+tmp/*
 .env
 venv
 *.pyc
