@@ -39,10 +39,7 @@ def build_context(chunks_list, chunker):
         })
 
     return contextualized_chunks
-    """"
-    @param input_file HTML input file
-    @return Tuple of chunks and their metadata
-    """
+    
 
 
 chunk("Legea nr.227_2015.html")
